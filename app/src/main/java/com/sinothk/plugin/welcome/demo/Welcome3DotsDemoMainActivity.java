@@ -1,7 +1,6 @@
 package com.sinothk.plugin.welcome.demo;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class Welcome3DotsDemoMainActivity extends AppCompatActivity {

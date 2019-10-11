@@ -2,12 +2,9 @@ package com.sinothk.plugin.welcome.demo;
 
 import android.content.Intent;
 import android.view.View;
-
 import androidx.fragment.app.Fragment;
-
 import com.sinothk.plugin.welcome.video.GuildVideoFragment;
 import com.sinothk.plugin.welcome.video.Welcome3DotsActivity;
-
 import java.util.ArrayList;
 import java.util.List;
 
