@@ -32,6 +32,7 @@
         @Override
         protected List<Fragment> initWelcomeData() {
             List<Fragment> fs = new ArrayList<>();
+            // 添加视频文件：guide_1、guide_2、guide_3
             fs.add(GuildVideoFragment.getInstance(R.raw.guide_1));
             fs.add(GuildVideoFragment.getInstance(R.raw.guide_2));
             fs.add(GuildVideoFragment.getInstance(R.raw.guide_3));
