@@ -1,2 +1,2 @@
 include ':app', ':WelcomePager'
-rootProject.name='WelcomeVideoPagerLib'
+rootProject.name='WelcomePagerLib'
