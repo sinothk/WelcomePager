@@ -27,6 +27,7 @@
     import java.util.ArrayList;
     import java.util.List;
 
+    // 继承：Welcome3DotsActivity 
     public class Welcome3DotsDomeActivity extends Welcome3DotsActivity {
 
         @Override
